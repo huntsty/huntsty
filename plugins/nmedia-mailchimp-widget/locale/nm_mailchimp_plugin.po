@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Najeeb <ceo@najeebmedia.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "API Key"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Button Background Color"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Button Border Color"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Button Text Color"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Button Title"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Container Background Color"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Container Border Color"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Design Settings"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Enter Background color code like: #999"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Enter Background color code like: #999 1px solid"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Enter button title text e.g: Subscribe"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Enter title text color code like: #999"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Enter title text size and type like: 16px arial,sans-serif"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Enter your MailChimp API Key, don't know where to get? please visit this link, <a href=http://www.najeebmedia.com/where-can-i-find-my-mailchimp-api-key/ target=_blank>Get API Key</a>"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "General Settings"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "If no background image is selected then you can enter background color code like: #999"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "If no background image is selected then you can enter border color code like: #999 1px solid"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/nm_mailchimp.php:1
+msgid "MailChimp Widget"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Select Background Image"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Select background image"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Thanks Message"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Title Text Color"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Title Text Size/Type"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Type a message here, it will be shown when user will submit the email/info for subscription"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/nm_mailchimp.php:1
+msgid "Your Caption Here"
+msgstr ""
+
+#. Text in echo
+#: nm-mailchimp-pro-version/control.php:14
+msgid "Box Title"
+msgstr ""
+
+#. Text in echo
+#: nm-mailchimp-pro-version/mc-box.php:34
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/mc-box.php:26
+msgid "Firstname, Lastname"
+msgstr ""
+
+#. Text in echo
+#: nm-mailchimp-pro-version/control.php:41
+msgid "No"
+msgstr ""
+
+#. Text in echo
+#: nm-mailchimp-pro-version/plugin-options.php:300
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: nm-mailchimp-pro-version/plugin-options.php:286
+msgid "Save Changes"
+msgstr ""
+
+#. Text in echo
+#: nm-mailchimp-pro-version/control.php:21
+#: nm-mailchimp-pro-version/control.php:23
+msgid "Select List"
+msgstr ""
+
+#. Text in echo
+#: nm-mailchimp-pro-version/control.php:36
+msgid "Select option"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Settings reset."
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Settings saved."
+msgstr ""
+
+#. Text in echo
+#: nm-mailchimp-pro-version/control.php:34
+msgid "Show Names [Optional]"
+msgstr ""
+
+#. Text in echo
+#: nm-mailchimp-pro-version/control.php:6
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: nm-mailchimp-pro-version/plugin-options.php:194
+msgid "To easily use the MailChimp Plugin you can use following settings"
+msgstr ""
+
+#. Text in function
+#: nm-mailchimp-pro-version/plugin-options.php:307
+msgid "Widgets reset."
+msgstr ""
+
+#. Text in echo
+#: nm-mailchimp-pro-version/control.php:38
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: nm-mailchimp-pro-version/api_mailchimp/mcapi_lists.php:14
+msgid "You did not enter API Keys please enter your API Keys from Nmedia Mailchimp Setting area"
+msgstr ""
+

@@ -1,0 +1,686 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: shamama <shamama@najeebmedia.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "API Key"
+msgstr "API Key"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/controls.php:13
+#: nmedia-mailchimp-pro-Extended/include/list-campaigns.php:19
+msgid "Add New Campaign"
+msgstr "Aggiungi nuova campagna"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/list-manager.php:286
+msgid "Add interest"
+msgstr "Aggiungi interesse"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/list-manager.php:168
+msgid "Add new Merge Var"
+msgstr "Aggiungi nuovo Merge Var"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/list-manager.php:218
+msgid "Add new grouping"
+msgstr "Aggiungi nuovo raggruppamento"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/list-manager.php:141
+msgid "Add variables and groups"
+msgstr "Aggiungere variabili e gruppi"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:52
+msgid "Analytics Google"
+msgstr "Google Analytics"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:44
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:48
+msgid "Authenticate"
+msgstr "autenticare"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:75
+msgid "Auto Facebook Post"
+msgstr "Auto Facebook Messaggio"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:67
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:71
+msgid "Auto Tweet"
+msgstr "Auto Tweet"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/list-manager.php:109
+msgid "Back to list"
+msgstr "Torna alla lista"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:192
+msgid "Background color"
+msgstr "colore di sfondo"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/control.php:14
+msgid "Box Title"
+msgstr "Box Titolo"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/mc-widget-options.php:31
+msgid "Button Text"
+msgstr "Button Text"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Button Text Color"
+msgstr "Button Colore del testo"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Button Title"
+msgstr "Button Titolo"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/basic-settings.php:31
+msgid "Campaign Subject"
+msgstr "Oggetto della campagna"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:40
+msgid "Campaign Title"
+msgstr "Campagna Titolo"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-campaigns.php:50
+msgid "Campaign detail"
+msgstr "Campagna dettaglio"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-campaigns.php:55
+msgid "Campaign report"
+msgstr "report campagna"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:21
+#: nmedia-mailchimp-pro-Extended/include/controls.php:17
+msgid "Campaigns (not sent)"
+msgstr "Campagne (non inviati)"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/mc-campaigns.php:316
+msgid "Campaigns will be created but not sent atfter this step. You can test this campaign later."
+msgstr "Campagne verrà creato, ma non ha inviato atfter questo passo. È possibile verificare questa campagna più tardi."
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-campaigns.php:56
+msgid "Campaing sent on: "
+msgstr "Campaing Rilasciato il:"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/list-manager.php:163
+msgid "Click on list"
+msgstr "Cliccare sulla lista"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:185
+msgid "Content Footer"
+msgstr "contenuto piè di pagina"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:54
+msgid "Content Header"
+msgstr "contenuto Header"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:119
+msgid "Content Sidebar"
+msgstr "contenuto Sidebar"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-campaigns.php:53
+msgid "Delete"
+msgstr "cancellare"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/list-manager.php:355
+msgid "Do you want to delete this?"
+msgstr "Vuoi eliminare questo?"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/forms-list.php:60
+msgid "Do you want to remove this variable?"
+msgstr "Vuoi eliminare questa variabile?"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:90
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:94
+msgid "Ecomm360"
+msgstr "Ecomm360"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+#: nmedia-mailchimp-pro-Extended/mc-form.php:29
+#: nmedia-mailchimp-pro-Extended/mc-form.php:62
+msgid "Email"
+msgstr "Email"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Enter button title text e.g: Subscribe"
+msgstr "Immettere il titolo e.g pulsante di testo: Iscriviti"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Enter your MailChimp API Key, don't know where to get? please visit this link, <a href=http://www.najeebmedia.com/where-can-i-find-my-mailchimp-api-key/ target=_blank>Get API Key</a>"
+msgstr "Inserisci il tuo MailChimp API Key, non so dove trovare? si prega di visitare questo link, href=http://www.najeebmedia.com/where-can-i-find-my-mailchimp-api-key/ target=_blank> <a Prendi API Key </ a>"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Enter your Plugin API Key, don't know where to get? please login into your Member Area <a href=http://www.wordpresspoets.com/member-area/ target=_blank>here</a>"
+msgstr "Inserisci la tua chiave API Plugin, non so dove trovare? accedi alla tua Area Utente href=http://www.wordpresspoets.com/member-area/ <a target=_blank> qui </ a>"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Enter your email address used in ordering"
+msgstr "Inserisci il tuo indirizzo e-mail utilizzato in ordine"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:82
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:86
+msgid "Facebook Comments"
+msgstr "Facebook Comments"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:77
+msgid "Facebook pages IDs"
+msgstr "Facebook pagine ID"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/mc-form.php:31
+#: nmedia-mailchimp-pro-Extended/mc-form.php:63
+msgid "Firstname, Lastname"
+msgstr "Nome, Cognome"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-campaigns.php:27
+msgid "Following found under your MailChimp account"
+msgstr "A seguito trovato sotto il vostro account MailChimp"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/list-manager.php:107
+msgid "Following lists found under your MailChimp account"
+msgstr "Seguenti elenchi trovato sotto il vostro account MailChimp"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:202
+msgid "Font color"
+msgstr "colore del carattere"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:216
+msgid "Font size"
+msgstr "dimensione carattere"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/forms-list.php:1
+msgid "Form deleted"
+msgstr "Modulo cancellato"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/basic-settings.php:36
+msgid "From Email"
+msgstr "da E-mail"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/basic-settings.php:41
+msgid "From Name"
+msgstr "dal nome"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "General Settings"
+msgstr "Impostazioni generali"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:59
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:63
+msgid "Generate Text"
+msgstr "genera testo"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/list-manager.php:331
+msgid "Group added into list"
+msgstr "Gruppo aggiunto in lista"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/list-manager.php:331
+msgid "Group deleted from list"
+msgstr "Gruppo eliminato dalla lista"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/list-manager.php:216
+msgid "Groupings"
+msgstr "raggruppamenti"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:26
+msgid "Html Click"
+msgstr "Html Click"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "If you want to redirect user after successul subscription, otherwise leave it BLANK to stick on same page"
+msgstr "Se si desidera reindirizzare utenti dopo la sottoscrizione successul, altrimenti lasciare il campo vuoto per attaccare sulla stessa pagina"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/list-manager.php:331
+msgid "Interest group added into list"
+msgstr "Gruppo di interesse ha aggiunto nella lista"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/list-manager.php:284
+msgid "Interest groups"
+msgstr "gruppi di interesse"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-campaigns.php:81
+msgid "It will delete the campaing, are you sure?"
+msgstr "Si elimina il campaing, sei sicuro?"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-templates.php:29
+#: nmedia-mailchimp-pro-Extended/include/list-templates.php:32
+msgid "Just use my post/page contents, which will be selected in step 4"
+msgstr "Basta usare il mio post / contenuto della pagina, che sarà selezionato al punto 4"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/list-manager.php:166
+msgid "List Variables"
+msgstr "Lista variabili"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-chart.php:19
+msgid "List subscribers"
+msgstr "lista degli iscritti"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/list-manager.php:104
+msgid "Mailchimp Account Lists"
+msgstr "Elenchi account MailChimp"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-campaigns.php:15
+msgid "Mailchimp campaigns"
+msgstr "campagne MailChimp"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/list-manager.php:172
+msgid "Must be all CAPS"
+msgstr "Deve essere scritto in maiuscolo"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/shortcodes.php:12
+msgid "N-Media Mailchimp Shortcodes"
+msgstr "N-Media MailChimp shortcode"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:99
+#: nmedia-mailchimp-pro-Extended/include/basic-settings.php:46
+#: nmedia-mailchimp-pro-Extended/include/list-templates.php:38
+msgid "Next"
+msgstr "prossimo"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/control.php:41
+msgid "No"
+msgstr "non"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:53
+msgid "Note - You will need to have Google Analytics setup on your website to use this feature"
+msgstr "Nota - È necessario disporre di installazione di Google Analytics sul tuo sito web per utilizzare questa funzione"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:20
+msgid "Open"
+msgstr "aperto"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:212
+msgid "Padding"
+msgstr "imbottitura"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Plugin API Key"
+msgstr "Plugin API Key"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:233
+msgid "Preview"
+msgstr "anteprima"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Redirect after successful subscription"
+msgstr "Redirect dopo la sottoscrizione di successo"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:362
+msgid "Reset"
+msgstr "azzerare"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:346
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Security"
+msgstr "sicurezza"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/mc-widget-options.php:17
+msgid "Select"
+msgstr "selezionare"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/shortcodes.php:39
+msgid "Select Fields"
+msgstr "selezionare Campi"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/basic-settings.php:14
+#: nmedia-mailchimp-pro-Extended/shortcodes.php:15
+#: nmedia-mailchimp-pro-Extended/control.php:21
+#: nmedia-mailchimp-pro-Extended/control.php:23
+msgid "Select List"
+msgstr "selezionare Elenco"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:20
+msgid "Select Post/Page"
+msgstr "Selezionare Articolo / Pagina"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/mc-widget-options.php:15
+msgid "Select form"
+msgstr "Seleziona forma"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/control.php:36
+msgid "Select option"
+msgstr "selezionare l'opzione"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-campaigns.php:52
+msgid "Send campaign"
+msgstr "Invia campagna"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:37
+msgid "Send from Email"
+msgstr "Invio da Email"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-campaigns.php:51
+msgid "Sent test"
+msgstr "test Inviato"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:34
+msgid "Sent to (List)"
+msgstr "Inviato a (List)"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Settings reset."
+msgstr "Impostazioni di reset."
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Settings saved."
+msgstr "Impostazioni salvate."
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/control.php:34
+msgid "Show Names [Optional]"
+msgstr "Mostra nomi [opzionale]"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-chart.php:20
+msgid "Showing number of subscribers against each list"
+msgstr "Visualizzazione numero di abbonati contro ogni lista"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:57
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:122
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:188
+msgid "Smart designer"
+msgstr "design ricercato ed elegante"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/list-templates.php:15
+msgid "Step 1: Selecte Tempate "
+msgstr "Fase 1: Selecte di template"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/basic-settings.php:9
+msgid "Step 2: Basic Settings (these all required) "
+msgstr "Fase 2: Impostazioni di base (questi tutti i dati obbligatori)"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:9
+msgid "Step 3: Advance Settings (if not sure leave it default) "
+msgstr "Fase 3: Impostazioni avanzate (se non siete sicuri lasciarlo default)"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:14
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:19
+msgid "Step 4: Contents"
+msgstr "Fase 4: Contenuti"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Style/CSS"
+msgstr "Stile / CSS"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Style/css will be loaded on plugin page"
+msgstr "Stile / css verranno caricati su pagina dei plugin"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:41
+msgid "Subject"
+msgstr "soggetto"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:50
+msgid "Template based campaign"
+msgstr "Template campagna basata su"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:32
+msgid "Text Click"
+msgstr "Fare clic su Testo"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:220
+msgid "Text align"
+msgstr "allineamento testo"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Thanks Message"
+msgstr "Grazie Messaggio"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:38
+#: nmedia-mailchimp-pro-Extended/mc-widget-options.php:7
+#: nmedia-mailchimp-pro-Extended/control.php:6
+msgid "Title"
+msgstr "titolo"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:54
+msgid "Title For Campaign (You\\'ll See This In Google Analytics™) - up to 50 characters"
+msgstr "Titolo Campagna (Per te \ \ 'll vedere in Google Analytics ™) - fino a 50 caratteri"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:13
+msgid "Tracking"
+msgstr "monitoraggio"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Type a message here, it will be shown when user will submit the email/info for subscription"
+msgstr "Digitare un messaggio qui, sarà mostrato quando l'utente dovrà presentare la email / info per la sottoscrizione"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/list-manager.php:331
+msgid "Variable added into list"
+msgstr "Variabile aggiunto nella lista"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/list-manager.php:331
+msgid "Variable deleted from list"
+msgstr "Variabile cancellato dalla lista"
+
+#. Text in function
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:313
+msgid "Widgets reset."
+msgstr "Widget reset."
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/control.php:38
+msgid "Yes"
+msgstr "sì"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:187
+msgid "You can use HTML. CSS must be IN-LINE or use our"
+msgstr "È possibile utilizzare HTML. CSS devono essere in linea o utilizzare il nostro"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/campaign-contents.php:51
+msgid "You have selected Base Template in step one, now you need to put some extra content for header, sidebard and footer"
+msgstr "Hai selezionato Template Base in passo uno, ora è necessario mettere alcuni contenuti extra per header, footer e sidebard"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:237
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:330
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:310
+msgid "desc"
+msgstr "desc"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:79
+msgid "each fb page id separated by comma"
+msgstr "id ogni pagina fb separati da virgola"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:57
+msgid "facebook likes"
+msgstr "facebook piace"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:50
+msgid "forwarded"
+msgstr "ha trasmesso"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:54
+msgid "forwarded opens"
+msgstr "trasmessa apre"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:52
+msgid "hard bounces"
+msgstr "rimbalzi duri"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:58
+msgid "last open"
+msgstr "aperta per ultima"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:320
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:270
+#: nmedia-mailchimp-pro-Extended/plugin-options.php:343
+msgid "name"
+msgstr "nome"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:91
+msgid "optional - If set, our <a href=\"http://www.mailchimp.com/blog/ecommerce-tracking-plugin/\">Ecommerce360</a> tracking will be enabled for links in the campaign"
+msgstr "optional - Se impostato, il nostro <a href=\"http://www.mailchimp.com/blog/ecommerce-tracking-plugin/\"> Ecommerce360 </ a> di inseguimento sarà attivato per i collegamenti nella campagna"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:76
+msgid "optional - If set, this campaign will be auto-posted to the page_ids contained in the array. If a Facebook account isn\\'t linked or the account does not have permission to post to the page_ids requested, those failures will be silently ignored."
+msgstr "optional - Se impostato, questa campagna sarà automaticamente inviato alle page_ids contenuti nella matrice. Se un account Facebook isn \ \ 't collegato o l'account non dispone dell'autorizzazione per inviare messaggi alle page_ids richiesti, questi fallimenti saranno ignorati."
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:68
+msgid "optional - If set, this campaign will be auto-tweeted when it is sent - defaults to false. Note that if a Twitter account isn\\'t linked, this will be silently ignored."
+msgstr "optional - Se impostato, questa campagna sarà auto-Twitter quando viene inviato - il default è false. Si noti che se un account Twitter isn \ \ 't collegato, questo sarà ignorata."
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:83
+msgid "optional - If true, the Facebook comments (and thus the <a href=\"http://kb.mailchimp.com/article/i-dont-want-an-archiave-of-my-campaign-can-i-turn-it-off/\">archive bar</a> will be displayed. If false, Facebook comments will not be enabled (does not imply no archive bar, see previous link). Defaults to \"true\"."
+msgstr "optional - Se fosse vero, i commenti di Facebook (e quindi la <a bar </ a> verrà visualizzato. Se è false, i commenti di Facebook non sarà abilitato (non implica alcuna barra di archivio, vedi link precedente). valore predefinito è \ \"\ true\"."
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:60
+msgid "optional - Whether of not to auto-generate your Text content from the HTML content. Note that this will be ignored if the Text part of the content passed is not empty, defaults to false."
+msgstr "opzionale - se non di generare automaticamente il contenuto di testo dal contenuto HTML. Si noti che questo verrà ignorato se la parte del testo del contenuto passato non è vuoto, il default è false."
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:39
+msgid "optional - an internal name to use for this campaign. By default, the campaign subject will be used."
+msgstr "optional - un nome interno da utilizzare per questa campagna. Per impostazione predefinita, il soggetto della campagna verranno utilizzati."
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:45
+msgid "optional - set to true to enable SenderID, DomainKeys, and DKIM authentication, defaults to false."
+msgstr "optional - impostata su true per abilitare SenderID, DomainKeys e DKIM l'autenticazione, il default è false."
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/advance-settings.php:14
+msgid "optional - set which recipient actions will be tracked, as a struct of boolean values with the following keys: \"opens\", \"html_clicks\", and \"text_clicks\". By default, opens and HTML clicks will be tracked. Click tracking can not be disabled for Free accounts."
+msgstr "optional - set which recipient actions will be tracked, as a struct of boolean values with the following keys: \"opens\", \"html_clicks\", and \"text_clicks\". By default, opens and HTML clicks will be tracked. Click tracking can not be disabled for Free accounts."
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:53
+msgid "people who clicked"
+msgstr "persone che hanno cliccato"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:49
+msgid "successful deliveries"
+msgstr "consegne di successo"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:56
+msgid "total clicks"
+msgstr "numero totale di clic"
+
+#. Text in echo
+#: nmedia-mailchimp-pro-Extended/include/camp-report.php:55
+msgid "total times opened"
+msgstr "tempi totali aperto"
+
